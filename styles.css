@@ -37,7 +37,7 @@ html,body{
     top: 10%;
     grid-row-gap:10px ;
     height: 16%;
-    
+    padding-left:20px ;
 }
 #logo{
     height: 40px;
@@ -168,4 +168,10 @@ button{
     grid-template-rows: 1fr 2fr;
     font-size: 13px;
     font-weight: 400;
+}
+input{
+    width:300px;
+    border-radius: 15px;
+    background-color: #e2e8f0;
+    border: none;
 }
